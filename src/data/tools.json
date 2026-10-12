@@ -939,6 +939,14 @@
           "slug": "lyricstosong"
         },
         {
+          "title": "MinaVoice",
+          "body": "Free voice cloning for natural multilingual voiceovers.",
+          "tag": "Freemium",
+          "url": "https://minavoice.com?ref=riseofmachine.com",
+          "date-added": "2026-10-12",
+          "slug": "minavoice"
+        },
+        {
           "title": "Mix Audio",
           "body": "Multimodal AI music generator.",
           "tag": "Freemium",
